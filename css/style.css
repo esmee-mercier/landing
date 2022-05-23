@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Lato:ital@1&family=Satisfy&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Satisfy', cursive;
+	font-size: 18px;
+	margin: 0px;
+	background-color: lightslategrey;
+	color: whitesmoke;
+}
+
+h1{
+	font-family: 'Courgette' cursive;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+}
+

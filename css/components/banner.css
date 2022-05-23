@@ -1,0 +1,10 @@
+.banner {
+	background-image: linear-gradient(150deg, #006E7F 0%, rgba(0,0,0,0.1) 80%), url(../../images/disney.jpg);
+	color:  whitesmoke;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	font-size: 40px;
+	font-family: 'Courgette' cursive;
+}
+
